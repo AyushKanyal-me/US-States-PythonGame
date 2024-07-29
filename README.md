@@ -48,7 +48,8 @@ Save Missed States: All states that have not been guessed will be saved in a fil
 
 ## Contribution
 
-Feel free to fork the repository, make improvements, and submit pull requests. Your contributions to enhancing the game are greatly appreciated!
+Feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change. 
+Your contributions to enhancing the game are greatly appreciated!
 
 ## Contact
 
